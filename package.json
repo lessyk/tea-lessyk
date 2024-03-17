@@ -1,0 +1,22 @@
+{
+  "name": "tea-lessyk",
+  "version": "1.0.0",
+  "description": "tea oss",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lessyk/tea-lessyk.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lessyk/tea-lessyk/issues"
+  },
+  "homepage": "https://github.com/lessyk/tea-lessyk#readme"
+}
